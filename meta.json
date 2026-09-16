@@ -1,0 +1,23 @@
+{
+  "repo": "goplus-scanner-full",
+  "product": "GoPlus Scanner Full",
+  "kind": "security",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "token-scanner",
+  "topics": [
+    "goplus-scanner",
+    "token-risk-desk",
+    "contract-flag-windows",
+    "goplus-2026",
+    "how-to-install-goplus",
+    "goplus-desktop-package",
+    "holder-honeypot-suite",
+    "watch-alert-tools",
+    "security-scan-complete",
+    "goplus-professional"
+  ],
+  "site": "toolix.me"
+}
